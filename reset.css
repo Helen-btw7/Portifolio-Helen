@@ -1,0 +1,6 @@
+/* ---------- Reset básico ---------- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box; /* padding não "estoura" a largura */
+}
